@@ -1,6 +1,9 @@
 # CWS Ruby 101
-This is a set of exercises for the Ruby 101 Program I am conducting at
-CWS
+This is a simple exercise. The goal is to help users understand the basics of:
+ * File Handling
+ * Array Handling
+ * String Manipulation
+ * Reading Command Line Arguments
 
 ## Exercise 1
 Get a list of all current facilities with:
